@@ -1,6 +1,8 @@
 # scada
 SCADA system prototype (sample code only)
 
+![Alt text](/scada.png?raw=true)
+
 This is sample code of SCADA system project (frontend only). 
 SCADA system suppose to recieve signals from many different sensors (like conditioner temperature, voltage from power sources, door locker signals etc) and show their state on screen. There could be many screens (for different floors or other object). 
 
